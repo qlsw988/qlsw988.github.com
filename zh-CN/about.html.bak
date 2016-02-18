@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="zh-CN">
 <head>
 <title>Home</title>
 <link href="css/bootstrap.css" rel='stylesheet' type='text/css'/>
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all"/>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1" charset="utf-8">
 <script src="js/jquery.min.js"></script>
 <link href='http://fonts.useso.com/css?family=Amaranth:400,700,700italic,400italic' rel='stylesheet' type='text/css'>
 <link href='http://fonts.useso.com/css?family=Signika+Negative:300,400,600,700|Amaranth:400,700,700italic,400italic' rel='stylesheet' type='text/css'>
@@ -12,6 +12,7 @@
 <body>
 <!---->
 <div class="header">
+<div style="width:200px;float:right;font-size:12px;"><a href="#">中文版</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="">English</a></div>
 	 <div class="container">
 	     <div class="top-header">
 			 <div class="logo">
@@ -20,10 +21,10 @@
 			 <div class="top-menu">
 				<span class="menu"> </span>
 				<ul>
-					 <li><span class="pic1"></span><a href="index.html">Home</a></li>
-					 <li class="active"><span class="pic2"></span><a href="about.html">About Us</a></li>
-					 <li><span class="pic3"></span><a href="service.html">Services</a></li>
-					 <li><span class="pic4"></span><a href="contact.html">Contact Us</a></li>
+					 <li><span class="pic1"></span><a href="index.html">首页</a></li>
+					 <li class="active"><span class="pic2"></span><a href="about.html">走进清蓝</a></li>
+					 <li><span class="pic3"></span><a href="service.html">产品</a></li>
+					 <li><span class="pic4"></span><a href="contact.html">联系我们</a></li>
 						<div class="clearfix"></div>
 				 </ul>
 				 <!--script-nav-->
@@ -40,7 +41,7 @@
 </div>
 <!---->
 <div class="about-section">	
-			<h2>About Us</h2>
+			<h2>关于我们</h2>
 		<div class="container">
 			<div class="col-md-8 about-info">
 				<h3>Lorem ipsum dolor sit amet</h3>
@@ -52,7 +53,7 @@
 			</div>			
 		<div class="col-md-4 about-news">
 			<img src="images/minto.jpg" class="img-responsive" alt="" />
-			<h4>Latest News</h4>
+			<h4>新闻动态</h4>
 			<marquee direction="down">
 			<div class="LatestNews">
 				<h6><a href="#">Starting New Ventures for a Current Bussi</a></h6>
@@ -93,10 +94,10 @@
 <!---->
 <div class="fotter">
 	 <div class="container">
-		 <p class="copyright">Copyright &copy; 2016.Company name All rights reserved.<a target="_blank" href="http://sc.chinaz.com/moban/">&#x7F51;&#x9875;&#x6A21;&#x677F;</a></p>
+		 <p class="copyright">陕西清蓝生物科技有限公司 版权所有，公司网址<a href="http://www.qlsw988.com">www.qlsw988.com</a></p>
 		 <div class="social-icons">
-		 <a href="#"><span class="facebook"> </span></a>
-		 <a href="#"><span class="twitter"> </span></a>
+		 
+		 <a href="index.html"><span class="pic1"></span></a>
 		 </div>
 		 <div class="clearfix"></div>
 	 </div>
