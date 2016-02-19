@@ -56,14 +56,19 @@ background-position: -65px -10px
 .top-menu li span.pic4 {
 background-position: -96px -6px;
 }
+a:hover{
+	color:#82699D;
+}
+
 .top-menu ul li a:hover{
 color:#82699D;
 }
+
 .top-menu ul li.active a{
 color:#9A80CD;
 }
 .header {
-border-top: 5px solid #82699D;
+border-top: 5px solid #3D92E9;
 }
 /*--- slider-css --*/
 .sale-box{
@@ -79,7 +84,7 @@ border-top: 5px solid #82699D;
 .sale-box span.on_sale{
 font-size: 1.5em;
 color: #fff;
-background: #9A80CD;
+background: #3D92E9;
 text-transform: uppercase;
 padding: 89px 43px 14px 1px;
 width: 370px;
@@ -423,7 +428,7 @@ border:1px solid #E4E4E4;
 .fotter{
 background:#E8E8E8;
 padding:1em 0;
-border-bottom:5px solid #82699D;
+border-bottom:5px solid #3D92E9;
 }
 .fotter p{
 float:left;
