@@ -1,13 +1,14 @@
 ﻿<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-<title>植物提取物_植物提取专家 - 陕西清蓝生物科技有限公司纯天然植物提取物供应商</title>
-<link rel="shortcut icon" type="image/x-icon" href="images/logo2.ico" />
-<link href="css/bootstrap.css" rel='stylesheet' type='text/css'/>
-<link href="css/style.css" rel="stylesheet" type="text/css" media="all"/>
+<title>
+Plant extract | Plant Extract experts - Shanxi QingBlue Biological Technology Co.,Ltd. pure natural plant extracts supplier</title>
+<link rel="../shortcut icon" type="image/x-icon" href="images/logo2.ico" />
+<link href="../css/bootstrap.css" rel='stylesheet' type='text/css'/>
+<link href="../css/style.css" rel="stylesheet" type="text/css" media="all"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" charset="utf-8">
-<script src="js/jquery.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
+<script src="../js/jquery.min.js"></script>
+<script src="../js/bootstrap.min.js"></script>
 <link href='http://fonts.useso.com/css?family=Amaranth:400,700,700italic,400italic' rel='stylesheet' type='text/css'>
 <link href='http://fonts.useso.com/css?family=Signika+Negative:300,400,600,700|Amaranth:400,700,700italic,400italic' rel='stylesheet' type='text/css'>
 </head>
@@ -15,7 +16,7 @@
 <!--header starts-->
 <div class="header">
 	 <div class="lang">
-		<a href="index.html">中文版</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="en-US/index.html">English</a>
+		<a href="../index.html">中文版</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="index.html">English</a>
 	 </div>
 	 <div class="container">
 		  <div class="logo">
@@ -46,19 +47,11 @@
 				 <li><span class="pic4"></span><a href="contact.html">联系我们</a></li>
 				 <li><span class="pic2"></span><a href="contact.html">加入清蓝</a></li>
 			 </ul>
-			 <!--script-nav-->
-				 <script>
-				 $("span.menu").click(function(){
-				 $(".top-menu ul").slideToggle("slow" , function(){
-				 });
-				 });
-			 $(function(){
-				$(".top-menu ul").click(function(){
-					//alert($(this).index());
-$("this").addClass(".active").siblings().removeClass('.active');
-					
-		
-				});
+			  <!--script-nav-->
+			 <script>
+			 $("span.menu").click(function(){
+			 $(".top-menu ul").slideToggle("slow" , function(){
+			 });
 			 });
 			 </script>
 			 <!--script-nav-->
@@ -68,7 +61,6 @@ $("this").addClass(".active").siblings().removeClass('.active');
 	 </div>
 </div>
 <!--header ends-->
-
  <!--轮播部分开始-->
 <div class="header-banner">
 		 <script src="js/responsiveslides.min.js"></script>
@@ -165,7 +157,6 @@ $("this").addClass(".active").siblings().removeClass('.active');
 	</div>
 </div>
  <!--轮播部分结束-->
-
 <div class="container">
 	 <div class="banner-content">
 	 <p><span>Lorem ipsum dolor sit amet, </span>consectetur adipisicing elit, sed do eiusmod quis nostrud exercitation ullamco laboris nisi ut aliquip tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
@@ -211,12 +202,13 @@ $("this").addClass(".active").siblings().removeClass('.active');
 <!---->
 <div class="fotter">
 	 <div class="container">
-		 <p class="copyright">Copyright © 2010-2015陕西清蓝生物科技有限公司 版权所有 陕ICP备15007879号-1</p>
-		 <p class="copyright">地址： 陕西总公司 西安市高新区锦业路69号创业研发园C区瞪羚一路18号四楼</p>
-		 <p class="copyright">联系电话：029-81024172（咸阳） 020-87568089（手机）</p>  
-         <p class="copyright">E-mail：info@yuensunshine.com</p>
-		 <p class="copyright"><a href="http://www.qlsw988.com">公司网址www.qlsw988.com</a></p>
+		 <p class="copyright">Copyright © 2009 - 2016 Xian Qingblue Biological Technology Co.,Ltd. - Plant extract Manufacturer - All rights reserved.</p>
+		 <p class="copyright">Address: Rm.607,Letao Buidling,No.38 Rd.Shishan,Huangpu District,Guangzhou,Guangdong，China</p>
+		 <p class="copyright">No. 18 Zone C, Pioneering R&D Park, No. 69 Jinye Road, Xi'an, Shaanxi, China</p> 
+		 <p class="copyright"><a href="http://www.qlsw988.com">www.qlsw988.com</a></p>
+
 		 <div class="social-icons">
+		 
 		 <a href="index.html"><span class="pic1"></span></a>
 		 </div>
 		 <div class="clearfix"></div>

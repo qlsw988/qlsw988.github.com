@@ -1,13 +1,11 @@
 ﻿<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-<title>
-Plant extract | Plant Extract experts - Shanxi QingBlue Biological Technology Co.,Ltd. pure natural plant extracts supplier</title>
-<link rel="shortcut icon" type="image/x-icon" href="../images/logo2.ico" />
-<link href="../css/bootstrap.css" rel='stylesheet' type='text/css'/>
-<link href="../css/style.css" rel="stylesheet" type="text/css" media="all"/>
+<title>植物提取物_植物提取专家 - 陕西清蓝生物科技有限公司纯天然植物提取物供应商</title>
+<link href="css/bootstrap.css" rel='stylesheet' type='text/css'/>
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" charset="utf-8">
-<script src="../js/jquery.min.js"></script>
+<script src="js/jquery.min.js"></script>
 <link href='http://fonts.useso.com/css?family=Amaranth:400,700,700italic,400italic' rel='stylesheet' type='text/css'>
 <link href='http://fonts.useso.com/css?family=Signika+Negative:300,400,600,700|Amaranth:400,700,700italic,400italic' rel='stylesheet' type='text/css'>
 </head>
@@ -15,7 +13,7 @@ Plant extract | Plant Extract experts - Shanxi QingBlue Biological Technology Co
 <!--header starts-->
 <div class="header">
 	 <div class="lang">
-		<a href="../contact.html">中文版</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="contact.html">English</a>
+		<a href="about.html">中文版</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="en-US/about.html">English</a>
 	 </div>
 	 <div class="container">
 		  <div class="logo">
@@ -40,10 +38,10 @@ Plant extract | Plant Extract experts - Shanxi QingBlue Biological Technology Co
 		 <div class="top-menu">
 			<span class="menu"></span>
 			<ul>
-				 <li><span class="pic1"></span><a href="index.html">清蓝主页</a></li>
+				 <li class="active"><span class="pic1"></span><a href="index.html">清蓝主页</a></li>
 				 <li><span class="pic2"></span><a href="about.html">公司介绍</a></li>
 				 <li><span class="pic3"></span><a href="service.html">产品信息</a></li>
-				 <li class="active"><span class="pic4"></span><a href="contact.html">联系我们</a></li>
+				 <li><span class="pic4"></span><a href="contact.html">联系我们</a></li>
 				 <li><span class="pic2"></span><a href="contact.html">加入清蓝</a></li>
 			 </ul>
 			  <!--script-nav-->
@@ -60,43 +58,38 @@ Plant extract | Plant Extract experts - Shanxi QingBlue Biological Technology Co
 	 </div>
 </div>
 <!--header ends-->
-<div class="contact-section-page">
-	   <div class="contact_top">					
-		   <div class="container">
-			  <div class="col-md-6 contact_left">
-			 		<h2>在线留言</h2>
-			 		<p>在此留言进行反馈</p>
-				  <form>
-					 <div class="form_details">
-						   <input type="text" class="text" value="姓名" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = '姓名';}">
-						   <input type="text" class="text" value="QQ/MSN" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'QQ/MSN';}">
-							<input type="text" class="text" value="主题" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = '主题';}">
-							<textarea value="内容" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = '内容';}">内容</textarea>
-							<div class="clearfix"> </div>					   
-							<input name="submit" type="submit" value="提  交">
-					 </div>					 
-				  </form>
-			 </div>
-			 <div class="col-md-6 company-right">
-					<div class="contact-map">
-				    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1578265.0941403757!2d-98.9828708842255!3d39.41170802696131!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54eab584e432360b%3A0x1c3bb99243deb742!2sUnited+States!5e0!3m2!1sen!2sin!4v1407515822047"> </iframe>
-				    </div>      
-				 <div class="company-right">
-					   <div class="company_ad">
-							<h3>联系我们</h3>
-							<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit velit justo.</span>
-			      			<address>
-								<p>email:<a href="mail-to: info@example.com">info@display.com</a></p>
-								 <p>phone:  +255 55 55 777</p>
-								<p>28-7-169, 2nd Ave South</p>
-								<p>Saskabush, SK   S7M 1T6</p>									 	 	
-							</address>
-					  </div>
-				 </div>							
-			 </div>
-		  </div>
-	 </div>
-</div>
+<div class="about-section">	
+			<h2>关于我们</h2>
+		<div class="container">
+			<div class="col-md-8 about-info">
+				<h3>Lorem ipsum dolor sit amet</h3>
+				<p>Sugar plum jelly beans fruitcake lollipop jelly candy pudding. Cookie biscuit gingerbread jujubes macaroon liquorice. Faworki bonbon marshmallow caramels applicake soufflé tart gummi bears liquorice. Donut danish pie apple pie pastry tiramisu topping. Ice cream cookie gummi bears cotton cake. </p>
+				<h3>Consectetuer adipiscing elit</h3>
+				<p>Sugar plum jelly beans fruitcake lollipop jelly candy pudding. Cookie biscuit gingerbread jujubes macaroon liquorice. Faworki bonbon marshmallow caramels applicake soufflé tart gummi bears liquorice. Donut danish pie apple pie pastry tiramisu topping. Ice cream cookie gummi bears cotton cake. </p>
+				<h3>Sed diam nonummy nibh</h3>
+				<p>Sugar plum jelly beans fruitcake lollipop jelly candy pudding. Cookie biscuit gingerbread jujubes macaroon liquorice. Faworki bonbon marshmallow caramels applicake soufflé tart gummi bears liquorice. Donut danish pie apple pie pastry tiramisu topping. Ice cream cookie gummi bears cotton cake. </p>
+			</div>			
+		<div class="col-md-4 about-news">
+			<img src="images/minto.jpg" class="img-responsive" alt="" />
+			<h4>新闻动态</h4>
+			<marquee direction="down">
+			<div class="LatestNews">
+				<h6><a href="#">Starting New Ventures for a Current Bussi</a></h6>
+				<span>01-7-2014 </span>
+				<p>Faworki bonbon marshmallow caramels applicake soufflé tart gummi bears liquorice.</p> 
+			</div>			
+			<div class="LatestNews">
+				<h6><a href="#">Starting New Ventures for a Current Bussi</a></h6>
+				<span>01-7-2014 </span>
+				<p>Faworki bonbon marshmallow caramels applicake soufflé tart gummi bears liquorice.</p> 
+			</div>
+			</marquee>
+		</div>
+		
+				<div class="clearfix"> </div>
+		</div>
+	</div>
+<!-- about -->
 <!---->
 <div class="featured">
 	 <div class="container">

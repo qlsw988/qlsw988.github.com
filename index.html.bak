@@ -46,19 +46,21 @@
 				 <li><span class="pic4"></span><a href="contact.html">联系我们</a></li>
 				 <li><span class="pic2"></span><a href="contact.html">加入清蓝</a></li>
 			 </ul>
-			 <!--script-nav-->
-				 <script>
-				 $("span.menu").click(function(){
-				 $(".top-menu ul").slideToggle("slow" , function(){
-				 });
-				 });
+			  <!--script-nav-->
+			 <script>
+			 /*$("span.menu").click(function(){
+			 $(".top-menu ul").slideToggle("slow" , function(){
+					
+			 });
+			 });*/
 			 $(function(){
 				$(".top-menu ul").click(function(){
 					//alert($(this).index());
-$("this").addClass(".active").siblings().removeClass('.active');
+					  $("top-menu ul").eq($(this).index()).addClass(".active").siblings().removeClass('.active');
+					 // $("div").hide().eq($(this).index()).show();
 					
 		
-				});
+			 });
 			 });
 			 </script>
 			 <!--script-nav-->

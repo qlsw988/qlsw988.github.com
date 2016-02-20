@@ -1,13 +1,11 @@
 ﻿<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-<title>
-Plant extract | Plant Extract experts - Shanxi QingBlue Biological Technology Co.,Ltd. pure natural plant extracts supplier</title>
-<link rel="shortcut icon" type="image/x-icon" href="../images/logo2.ico" />
-<link href="../css/bootstrap.css" rel='stylesheet' type='text/css'/>
-<link href="../css/style.css" rel="stylesheet" type="text/css" media="all"/>
+<title>植物提取物_植物提取专家 - 陕西清蓝生物科技有限公司纯天然植物提取物供应商</title>
+<link href="css/bootstrap.css" rel='stylesheet' type='text/css'/>
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" charset="utf-8">
-<script src="../js/jquery.min.js"></script>
+<script src="js/jquery.min.js"></script>
 <link href='http://fonts.useso.com/css?family=Amaranth:400,700,700italic,400italic' rel='stylesheet' type='text/css'>
 <link href='http://fonts.useso.com/css?family=Signika+Negative:300,400,600,700|Amaranth:400,700,700italic,400italic' rel='stylesheet' type='text/css'>
 </head>
@@ -15,7 +13,7 @@ Plant extract | Plant Extract experts - Shanxi QingBlue Biological Technology Co
 <!--header starts-->
 <div class="header">
 	 <div class="lang">
-		<a href="../contact.html">中文版</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="contact.html">English</a>
+		<a href="contact.html">中文版</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="en-US/contact.html">English</a>
 	 </div>
 	 <div class="container">
 		  <div class="logo">
@@ -42,8 +40,8 @@ Plant extract | Plant Extract experts - Shanxi QingBlue Biological Technology Co
 			<ul>
 				 <li><span class="pic1"></span><a href="index.html">清蓝主页</a></li>
 				 <li><span class="pic2"></span><a href="about.html">公司介绍</a></li>
-				 <li><span class="pic3"></span><a href="service.html">产品信息</a></li>
-				 <li class="active"><span class="pic4"></span><a href="contact.html">联系我们</a></li>
+				 <li class="active"><span class="pic3"></span><a href="service.html">产品信息</a></li>
+				 <li><span class="pic4"></span><a href="contact.html">联系我们</a></li>
 				 <li><span class="pic2"></span><a href="contact.html">加入清蓝</a></li>
 			 </ul>
 			  <!--script-nav-->
