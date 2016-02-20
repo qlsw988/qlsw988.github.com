@@ -3,7 +3,7 @@
 <head>
 <title>
 Plant extract | Plant Extract experts - Shanxi QingBlue Biological Technology Co.,Ltd. pure natural plant extracts supplier</title>
-<link rel="../shortcut icon" type="image/x-icon" href="images/logo2.ico" />
+<link rel="../shortcut icon" type="image/x-icon" href="../images/logo2.ico" />
 <link href="../css/bootstrap.css" rel='stylesheet' type='text/css'/>
 <link href="../css/style.css" rel="stylesheet" type="text/css" media="all"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" charset="utf-8">
@@ -20,7 +20,7 @@ Plant extract | Plant Extract experts - Shanxi QingBlue Biological Technology Co
 	 </div>
 	 <div class="container">
 		  <div class="logo">
-			  <a href="index.html"><img src="images/logo2.gif" alt="" /></a>
+			  <a href="index.html"><img src="../images/logo2.gif" alt="" /></a>
 		  </div>
 		  <!--增加查询功能-->
 		  <div class="search">
@@ -63,7 +63,7 @@ Plant extract | Plant Extract experts - Shanxi QingBlue Biological Technology Co
 <!--header ends-->
  <!--轮播部分开始-->
 <div class="header-banner">
-		 <script src="js/responsiveslides.min.js"></script>
+		 <script src="../js/responsiveslides.min.js"></script>
 		 <script>
 		 $(function () {
 		  $("#slider").responsiveSlides({

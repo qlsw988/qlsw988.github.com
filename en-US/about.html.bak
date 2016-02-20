@@ -40,8 +40,8 @@ Plant extract | Plant Extract experts - Shanxi QingBlue Biological Technology Co
 		 <div class="top-menu">
 			<span class="menu"></span>
 			<ul>
-				 <li class="active"><span class="pic1"></span><a href="index.html">清蓝主页</a></li>
-				 <li><span class="pic2"></span><a href="about.html">公司介绍</a></li>
+				 <li><span class="pic1"></span><a href="index.html">清蓝主页</a></li>
+				 <li class="active"><span class="pic2"></span><a href="about.html">公司介绍</a></li>
 				 <li><span class="pic3"></span><a href="service.html">产品信息</a></li>
 				 <li><span class="pic4"></span><a href="contact.html">联系我们</a></li>
 				 <li><span class="pic2"></span><a href="contact.html">加入清蓝</a></li>
